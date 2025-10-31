@@ -44,8 +44,6 @@ What can I do for you? Develop a custom solution for your business. Both Front-E
 
 ## 📧 Contact Information
 
-Email: [farooqsanaullahs@gmail.com](mailto:farooqsanaullahs@gmail.com)
-
 ## 🌐 Let's Connect
 
 Feel free to reach out to me via email. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
