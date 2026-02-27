@@ -9,7 +9,6 @@
 
 </div>
 
----
 
 ## 🧑‍💻 About Me
 
@@ -19,7 +18,6 @@ I've helped startups and enterprises ship **10+ MVPs and SaaS products**, includ
 
 > 💡 I don't just write code. I build products that scale, perform, and deliver real business impact.
 
----
 
 ## 🏆 Key Achievements
 
@@ -32,7 +30,6 @@ I've helped startups and enterprises ship **10+ MVPs and SaaS products**, includ
 | **Performance Optimization** | 68% load time reduction (React, Node.js, Stripe) |
 | **Client Satisfaction** | 100% 5-Star Feedback & Zero Missed Deadlines |
 
----
 
 ## 🛠️ Tech Stack
 
@@ -94,7 +91,6 @@ I've helped startups and enterprises ship **10+ MVPs and SaaS products**, includ
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
 
----
 
 ## 🚀 What I Build
 
@@ -107,7 +103,6 @@ Agentic AI systems, RAG-based chatbots, LLM integrations, intelligent automation
 ### ☁️ Cloud & DevOps Solutions
 Scalable cloud infrastructure on AWS, containerized deployments with Docker, automated CI/CD pipelines, and production-grade deployment workflows using Vercel, Railway, and GitHub Actions.
 
----
 
 ## 📊 GitHub Stats
 
@@ -120,7 +115,6 @@ Scalable cloud infrastructure on AWS, containerized deployments with Docker, aut
 
 </div>
 
----
 
 ## 🤝 Let's Connect
 
